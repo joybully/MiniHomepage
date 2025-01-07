@@ -4,7 +4,7 @@
 - [Git 기본 명령어](https://www.miricanvas.com/v/13siuyd)
 - [브랜치와 병합](https://www.miricanvas.com/v/13sm5mv)
 - [Github 사용](https://www.miricanvas.com/v/13sjizq)
-- [추가 리소스](https://www.miricanvas.com/v/13sjm6u)
+- [추가 리소스](https://docs.google.com/document/d/1Se6HsILhCsNbqsjtrBktUzRz8_XBm-FFXcJQodZoSH8/edit?tab=t.0#heading=h.10ccv8j1pujz)
 ---
 ## Git이란?
 
