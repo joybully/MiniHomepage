@@ -34,6 +34,7 @@ GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 �
 ```
 git remote add origin <GitHb 저장소 URL>
 git push origin main
+```
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54N0tDCIIyp1dWyc8z6R6YsF-t47Bw_SOfw&s)
 ## 추가 리소스
 ---
