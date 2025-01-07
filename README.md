@@ -47,4 +47,4 @@ git push origin main
 - GitHub 사용법에 대한 자세한 정보는 [GitHub Docs](https://docs.github.com/ko)에서 찾아볼 수 있습니다.
 
 ## 스타일구성
-- style.md 추가
+- style.md 추가하기
