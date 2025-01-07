@@ -1,10 +1,10 @@
 # Git 기초
 ## 목차
-- Git이란?
-- Git 기본 명령어
-- 브랜치와 병합
-- Github 사용
-- 추가 리소스
+- [Git이란?](https://www.miricanvas.com/v/13sin0x)
+- [Git 기본 명령어](https://www.miricanvas.com/v/13siuyd)
+- [브랜치와 병합](https://www.miricanvas.com/v/13sm5mv)
+- [Github 사용](https://www.miricanvas.com/v/13sjizq)
+- [추가 리소스](https://www.miricanvas.com/v/13sjm6u)
 ---
 ## Git이란?
 
