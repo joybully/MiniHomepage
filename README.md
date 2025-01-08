@@ -63,5 +63,8 @@ git push origin main
 
 ## 푸터추가
 
+## 서치 추가
+- search.md 추가
+
 ## 사이드바 추가
 - sidebar.md 추가
