@@ -62,3 +62,6 @@ git push origin main
 - navigation.md 추가
 
 ## 푸터추가
+
+## 사이드바 추가
+- sidebar.md 추가
