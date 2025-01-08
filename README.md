@@ -48,3 +48,6 @@ git push origin main
 
 ## 스타일구성
 - style.md 추가하기
+
+## 장바구니 페이지
+- cart.md 추가
