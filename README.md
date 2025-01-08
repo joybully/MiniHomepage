@@ -48,3 +48,6 @@ git push origin main
 
 ## 스타일구성
 - style.md 추가하기
+
+## 서비스 소개 페이지
+- about.md 추가
