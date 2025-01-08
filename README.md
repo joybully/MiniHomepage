@@ -62,3 +62,6 @@ git push origin main
 - navigation.md 추가
 
 ## 푸터추가
+
+## 서치 추가
+- search.md 추가
