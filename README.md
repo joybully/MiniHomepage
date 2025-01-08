@@ -51,3 +51,6 @@ git push origin main
 
 ## 서비스 소개 페이지
 - about.md 추가
+
+## 내비게이션 추가하고
+- navigation.md 추가가
