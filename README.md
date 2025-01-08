@@ -48,3 +48,6 @@ git push origin main
 
 ## 스타일구성
 - style.md 추가하기
+
+## 구매 페이지
+- buy.md 추가
